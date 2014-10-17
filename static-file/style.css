@@ -1,0 +1,26 @@
+.rasim{
+	border-radius: 50% 50%;
+	width: 50%;
+}
+.taz{
+	float: left;
+	
+}
+.carousel img {
+
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  height: 500px;
+}
+img{
+  width: 100%;
+}
+
+.panel-body img{
+
+background:#FFF url(ajax.gif) no-repeat center center;
+}
+a.hat-ranggi{
+  color: #D91E18;
+}
